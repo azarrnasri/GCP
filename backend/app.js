@@ -7,7 +7,7 @@ app.use(cors({
   origin: ['http://localhost:5173' ,
             // replace this link with your own frontend url after deploying your frontend
             // keep the localhost url for testing locally
-           'https://gcp-540582372352.us-central1.run.app/'      
+           'https://gcp-frontend-540582372352.us-central1.run.app/'      
   ]
 }));
 
